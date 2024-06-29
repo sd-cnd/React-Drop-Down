@@ -2,7 +2,8 @@
 
 This project is a practice application that uses React and Vite to implement a drop down.
 
-![Project Screenshot 1](https://i.postimg.cc/4xBp2Gc9/Screenshot-2024-06-29-112122.png)
+![Project Screenshot 1](https://i.postimg.cc/bv4gL8XR/Screenshot-2024-06-29-112903.png)
+
 ![Project Screenshot 2](https://i.postimg.cc/1tN6zNjG/Screenshot-2024-06-29-112138.png)
 
 ## Features
